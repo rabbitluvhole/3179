@@ -1,0 +1,51 @@
+.cases_text{
+    color: #2590c8;
+}
+
+.deaths_text{
+    color: #d13141;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Change font color to red */
+.red-text {
+    color: red;
+}
+
+/* Change font color to green */
+.green-text {
+    color: green;
+}
+
+/* Change font size to 20px */
+.font-size-20px {
+    font-size: 20px;
+}
+
+/* Make the font bold */
+.bold-text {
+    font-weight: bold;
+}
+
+/* Make the font italic */
+.italic-text {
+    font-style: italic;
+}
+
+/* Make the font underline */
+.underline-text {
+    text-decoration: underline;
+}
+
+/* Make the font bold and italic */
+.bold-italic-text {
+    font-weight: bold;
+    font-style: italic;
+}

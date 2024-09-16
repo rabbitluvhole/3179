@@ -1,0 +1,15 @@
+/* class selector */
+.outer{
+    display: flex; /* turns outer into container for inner.img */
+    flex-wrap: wrap; /* wrap the images, next line if no more space*/
+    justify-content: space-evenly; /* space between images */
+}
+
+.inner img{
+    height: 60vh; /* 40% of the viewport height */
+}
+
+/* element selector */
+p{
+    text-align: center; /* center the text */
+}
